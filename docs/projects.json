@@ -4,7 +4,7 @@
       "id": "click-click",
       "title": "Click Click Game",
       "description": "Small reaction/clicker web game built with vanilla JS. Uses localStorage for high score.",
-      "image": "assets/images/bravo.jpg",
+      "image": "images/bravo.jpg",
       "technologies": ["HTML","CSS","JavaScript"],
       "live": "https://sweetiesyvi.github.io/ProjectBravo/",
       "repo": "https://github.com/sweetiesyvi/ProjectBravo"
@@ -13,7 +13,7 @@
       "id": "Welcome to the Democratic Republic of Congo",
       "title": "Welcome to the Democratic Republic of Congo",
       "description": "A web that help to know basic thinks about DRC",
-      "image": "assets/images/alpha.jpg",
+      "image": "images/alpha.jpg",
       "technologies": ["HTML","CSS","JavaScript"],
       "live": "https://sweetiesyvi.github.io/projetAlpha/",
       "repo": "https://github.com/sweetiesyvi/projetAlpha"
@@ -22,10 +22,11 @@
       "id": "search-choose",
       "title": "Search & Choose (UX Prototype)",
       "description": "An interface improvement prototype converting search terms into clickable bubbles to reduce clicks.",
-      "image": "assets/images/delta.jpg",
+      "image": "images/delta.jpg",
       "technologies": ["HTML","CSS","JavaScript"],
       "live": "https://sweetiesyvi.github.io/ProjectDelta/",
       "repo": "https://github.com/sweetiesyvi/ProjectDelta"
     }
   ]
 }
+
