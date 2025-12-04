@@ -1,4 +1,3 @@
-# Knowledge Reflection — sweetiesyvi
 
 ## Infrastructure & Architecture
 **Infrastructure**: GitHub (Repo + Pages), dev workstation (VSCode), Browser (Chrome/Edge), static hosting via GitHub Pages.
