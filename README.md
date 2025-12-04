@@ -85,3 +85,10 @@ Designed with Bootstrap for clean responsiveness across all devices.
 
 The reflection for the assignment is located in docs/reflection.md
 
+
+## Accessibilty 
+**NU HTML**
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fsweetiesyvi.github.io%2Fdev-project%2F
+
+**WAVE**
+
