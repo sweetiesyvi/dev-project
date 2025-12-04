@@ -17,16 +17,27 @@ Once GitHub Pages is enabled, the site will be available at:
 
 ## 📁 Project Structure
 └─ docs/ 
+
 │ └─ index.html 
+
 │ ├─ projects.json 
+
 │ ├─ achievements.json 
+
 │ ├─ reflection.md 
+
 │ ├─ scripts/
+
 │ │ └─ script.js 
+
 │ ├─ styles/
+
 │ │ └─ styles.css 
+
 │ ├─ assets/
-│ └─ images/ 
+
+│ | └─ images/ 
+
 └─ README.md 
 
 
