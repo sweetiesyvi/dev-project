@@ -70,3 +70,8 @@ body{
 @media (prefers-reduced-motion: reduce){
   *{transition:none!important}
 }
+.btn-outline-secondary {
+  color: #343a40 !important; /* texte beaucoup plus foncé */
+  border-color: #343a40 !important;
+}
+
