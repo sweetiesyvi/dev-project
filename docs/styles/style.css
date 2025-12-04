@@ -88,6 +88,14 @@ a:hover, a:focus { text-decoration: underline; }
   background-color: #ffffff; 
 }
 
+#markdown {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 8px;
+  color: #222;
+  line-height: 1.6;
+  font-size: 1rem;
+}
 
 #markdown a {
   color: #0d3aaf;
@@ -99,5 +107,6 @@ a:hover, a:focus { text-decoration: underline; }
   outline: 2px solid #0d3aaf;
   outline-offset: 2px;
 }
+
 
 
