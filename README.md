@@ -91,4 +91,4 @@ The reflection for the assignment is located in docs/reflection.md
 https://validator.w3.org/nu/?doc=https%3A%2F%2Fsweetiesyvi.github.io%2Fdev-project%2F
 
 **WAVE**
-
+https://wave.webaim.org/report#/https://sweetiesyvi.github.io/dev-project/
