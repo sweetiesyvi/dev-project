@@ -38,7 +38,7 @@ function renderProjects(list){
     card.innerHTML = `
       <img src="${p.image}" class="card-img-top" alt="${p.title}">
       <div class="card-body d-flex flex-column">
-        <h5 class="card-title">${p.title}</h5>
+        <h3 class="card-title">${p.title}</h3>
         <div class="meta">${p.technologies.join(', ')}</div>
         <p class="card-text">${p.description}</p>
         <div class="mt-auto d-flex gap-2">
@@ -136,3 +136,4 @@ response.text())
 document.getElementById("markdown").
 innerHTML = marked.parse(markdown);
   });
+
