@@ -22,10 +22,10 @@ body{
   min-height:100vh;
 }
 
-/* accessible focus */
+
 :focus{outline:3px solid rgba(13,110,253,0.25); outline-offset:2px}
 
-/* cards container */
+
 #cards .card{
   background:var(--card);
   border-radius:var(--radius);
@@ -34,13 +34,13 @@ body{
 }
 #cards .card:hover{transform:translateY(-6px); box-shadow:0 12px 30px rgba(15,15,15,0.07)}
 
-/* card image */
+
 .card-img-top{height:140px; object-fit:cover; border-top-left-radius:var(--radius); border-top-right-radius:var(--radius)}
 
-/* project meta */
+
 .card-body .meta{font-size:.9rem; color:var(--muted); margin-bottom:.5rem}
 
-/* responsive grid */
+
 @media(min-width:576px){
   #cards .col-sm-6{flex:0 0 50%; max-width:50%}
 }
@@ -48,7 +48,6 @@ body{
   #cards .col-lg-4{flex:0 0 33.333%; max-width:33.333%}
 }
 
-/* bubble styles (if you reuse) */
 .bubble {
   display:inline-flex;
   gap:.5rem;
@@ -61,17 +60,31 @@ body{
   cursor:pointer;
   user-select:none;
 }
-.bubble img{width:26px;height:26px;border-radius:6px;object-fit:cover}
+.bubble img{width:26px;height:26px;border-radius:6px;object-fit:cover; }
 
-/* search input */
 #searchInput{width:100%; max-width:520px}
 
-/* reduced motion */
+
 @media (prefers-reduced-motion: reduce){
   *{transition:none!important}
 }
+
+code {
+  background-color: #f0f0f0;
+  color: #000000;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+a:hover, a:focus { text-decoration: underline; }
+
 .btn-outline-secondary {
-  color: #343a40 !important; /* texte beaucoup plus foncé */
+  color: #343a40 !important;
   border-color: #343a40 !important;
+  background-color: #ffffff; 
 }
 
