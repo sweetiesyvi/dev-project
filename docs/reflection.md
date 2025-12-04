@@ -7,7 +7,7 @@
 - Presentation: `index.html` + `styles/styles.css`
 - Behavior: `scripts/script.js`
 
-> **Scrum** — short sprints, issue-driven small tasks. Source: [Scrum Guide](https://scrumguides.org/){: style="color:#0d3aaf;"}
+> **Scrum** — short sprints, issue-driven small tasks. Source: [Scrum Guide](https://scrumguides.org/)
 
 ## Tools & Attribution
 - Bootstrap 5, Normalize.css, Zero-md for markdown rendering.
