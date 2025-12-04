@@ -129,3 +129,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     selectors.cards.innerHTML = `<div class="col-12"><p class="text-danger">Failed to load data — check console</p></div>`;
   }
 });
+fetch("reflection.md")
+  .then(response => 
+response.text())
+  .then(markdown => {
+document.getElementById("markdown").
+innerHTML = marked.parse(markdown);
+  });
